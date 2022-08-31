@@ -14,6 +14,7 @@ int main(){
   input; output;
 #endif
 vector<int> v;
+    cout<<"asiif"<<nl;
    cout<<"pinon";
      
   return 0;
